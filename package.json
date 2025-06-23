@@ -1,0 +1,15 @@
+{
+  "name": "opc-glasses",
+  "version": "1.0.0",
+  "description": "",
+  "types": "index.d.ts",
+  "keywords": [],
+  "author": "inklesspen1rus",
+  "bugs": {
+    "url": "https://github.com/inklesspen1rus/opc-glasses/issues"
+  },
+  "homepage": "https://github.com/inklesspen1rus/opc-glasses#readme",
+  "devDependencies": {
+    "@typescript-to-lua/language-extensions": "^1.19.0"
+  }
+}
